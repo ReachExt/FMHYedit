@@ -749,6 +749,7 @@
 * [MoAiJobs](https://www.moaijobs.com/) - Find jobs in AI companies
 * [Arvrok](https://www.arvrok.com/) - Find Immersive Tech Jobs
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
+* [EJable](https://www.ejable.com/) - Find English-Speaking Tech Jobs in Japan
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
